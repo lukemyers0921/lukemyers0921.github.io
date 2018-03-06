@@ -93,3 +93,8 @@ aside, #aboutMe, #contactMe{
     width: 100%;
     height: auto;
 }
+.portLink {
+    text-decoration:none; 
+    color:white;
+
+}
